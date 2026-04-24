@@ -1,4 +1,4 @@
-# SRM Full Stack Engineering Challenge
+# Bajaj Full STack App
 
 Production-ready full stack project implementing:
 
